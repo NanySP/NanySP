@@ -25,7 +25,13 @@
 
 <div align="center">
 
+  ![snake gif](https://github.com/NanySP/NanySP/blob/output/github-contribution-grid-snake.svg)
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NanySP}/count.svg" /></p> 
+<br>
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
 
 
