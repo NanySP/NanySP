@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nanya+😊;I'm+23+years+old+🎉;I'm+from+Brazil+(rio+de+Janeiro)+🌍;Studying+Computer+science+📖;Be+Welcome!🐰+:%29)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/NanySP/BotNany/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NanySP/NanySP/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NanySP&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=DDA0DD&bg_color=0d1117" alt="Nany github stats" /> 
